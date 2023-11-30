@@ -1,3 +1,2 @@
 # stepik_auto_tests_course
-Homework for course
-Вношу изменение в файл...
+Bebra
